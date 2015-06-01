@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/caleview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:minWidth="260dp" >
+
+        <kankan.wheel.widget.WheelView
+            android:id="@+id/pickerday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <kankan.wheel.widget.WheelView
+            android:id="@+id/pickermonth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <kankan.wheel.widget.WheelView
+            android:id="@+id/pickeryear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:padding="2dp" >
+
+        <Button
+            android:id="@+id/btncancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:minWidth="100dp"
+            android:text="@string/cancellabel"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/btnset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:minWidth="100dp"
+            android:text="@string/applylabel"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+
+    <item title="Introduction">
+  I've started on the development of My Small Accountant  based on the present of the idea by some of my friends:
+in filling the needs of the  users to small accounting application to manage financial matters Valencia for individuals or very small companies 
+Sorry if this version have incomplete parts  , especially in the reports, but, God willing, in the next version there will be a bridge for all deficiencies 
+In the case of a missed or suggestions raise the level of the application can be sent to Me . 
+    </item>
+
+    <item title="Inputs and operations">
+    Input Screen is the screen through which he processes and the initial input to the application and carried out through the following stages: 
+ 1 - First you select the type of operation that you want to perform from the list and this list arranged by repeated use .
+ 2 - Based on the type of operation selected screen appears with the other accounts do not fully specify the account process after the first and the second account from the list by pressing the small arrow located at the beginning of the list 
+ 3 - A new account can be entered by pressing the button again
+ 4 - Emphasis on the introduction of the amount .
+ 5 - After the completion of data entry click on save button. 
+     Note: will any comments or messages at the top of the screen and will disappear automatically within 30 seconds in the case of the desire to hide it by hand can click it .
+    </item>
+
+    <item title="add Quick operation ">
+  sdfsdf
+    </item>
+
+    <item title="add Account ">
+ application setting,login data                      
+    </item>
+
+    <item title="Manage accounts">
+ Accounts Screen is the screen where the management of accounts for the deletion and modification .
+ To modify the account the  selection of the type of account will show all the main sub-accounts 
+ to delete an account pressure on the deletion icon next to the name of the account 
+ to modify the account pressure on the edite icon to the account then the account will show the contents in a window to can be adjusted
+    </item>
+
+    <item title="View Reports">
+    Reports Screen is the screen for viewing reports .
+ To view a report  selecte the main report type .  
+ Balances Reports is the reports for displaying all the accounts balances. 
+    </item>
+
+</items>

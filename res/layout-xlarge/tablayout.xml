@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.agimind.widget.SlideHolder xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/slideHolder"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="fill_parent"
+        android:background="@android:color/background_dark"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@android:color/background_dark" >
+
+            <ListView
+                android:id="@+id/optionlist1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@android:color/background_dark" >
+            </ListView>
+
+            <ImageView
+                android:layout_width="12dp"
+                android:layout_height="fill_parent"
+                android:layout_alignParentLeft="true"
+                android:contentDescription="@string/listicone"
+                android:src="@drawable/shadowright" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mainscreen"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+</com.agimind.widget.SlideHolder>

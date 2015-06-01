@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    
+    <string name="app_name">회계 원</string>
+    <string name="listicone">고정 이미지 아이콘</string>
+    <string name="apptile">집</string>
+    <string name="closicondesc">"Close icon "</string>
+
+<string name="hometab">업무</string>
+    
+    <string name="settingtab">설정</string>
+    <string name="apptitleen">집</string>
+    
+    
+    <string name="tab2">계정</string>
+    <string name="tab3">보고서</string>
+    
+    
+    
+    
+    <string name="exit">출구</string>
+<string name="Addccount">새로운 추가하기</string>
+    <string name="about">약</string>
+    <string name="Help">도움</string>
+<string name="langdir">2</string>
+    <string name="aboutcontent">신청 내용에 대한</string>
+    <string name="helpcontent">내용을 도움</string>
+    <string name="savinptbtn">저장</string>
+    <string name="valuelable">금액 :</string>
+    <string name="account2label">계정 이름을 선택 :</string>
+    <string name="account1label">계정 이름을 선택 :</string>
+    <string name="alarmtab">경보</string>
+    <string name="fullscreenoption">전체 화면</string>
+<string name="headeraccountscontext">계정 관리</string>
+    <string name="itemshortreport">빠른 보고서</string>
+    <string name="itemfullreport">전체 보고서</string>
+    <string name="editeitem">수정</string>
+    <string name="delitem">삭제</string>
+<string name="loginlabel">데이터 로그인</string>
+    <string name="passwordlabel">암호</string>
+    <string name="usernamelabel">사용자 이름</string>
+    <string name="savepasswordlabel">내 암호를 저장</string>
+    <string name="advancesettinglabel">고급 설정</string>
+    <string name="usernamesummary">로그인 사용자 이름을 입력하십시오</string>
+    <string name="passwordsummary">중요 작업을위한 암호</string>
+    <string name="fastoperationlabel">빠른 거래</string>
+<string name="loginbtnlabel">로그인</string>
+<string name="hidesplash">시작 화면 숨기기</string>
+<string name="totallabel">총 가치</string>
+    <string name="accountanamelabel">계정 이름</string>
+<string name="reportvalue">금액</string>
+<string name="xmlfile">helpen.xml</string>
+<string name="newoperasavedmsg">작업이 저장!</string>
+    <string name="amountfieldreq">값이 필요합니다!</string>
+<string name="vibresetting">알림에 진동을 사용</string>
+    <string name="voicesetting">알림의 음성을 사용하여</string>
+<string name="emptyaccountlabel">첫번째 새 계정을 추가</string>
+    <string name="newregist">새로운, 그냥 로그인을 클릭하고 설정에서 비밀번호를 설정</string>
+<string name="chooseaccounttype">계정 유형을 선택</string>
+<string name="quickoperationname">빠른 거래 이름 :</string>
+    <string name="operationdate">날짜</string>
+    <string name="longpressmsg">계정을 관리 할 길게 누르면</string>
+<string name="opeartionmngertitle">거래 관리</string>
+<string name="editbtn">수정</string>
+    <string name="delbtnlabel">삭제</string>
+<string name="confirmdelmsg">당신은 삭제 하시겠습니까!</string>
+    <string name="cancellabel">Cancel</string>
+<string name="addpasswordconfirm">당신은 응용 프로그램 보안에 대한 암호를 만들까요?</string>
+<string name="nolabel">아니</string>
+    <string name="yeslabel">예</string>
+<string name="purchase">구매</string>
+    <string name="sell">팔다</string>
+    <string name="tools">도구</string>
+    <string name="invoices">송장</string>
+    <string name="association">협회</string>
+    <string name="aksat">분할</string>
+<string name="backup">백업</string>
+    <string name="products">제품</string>
+<string name="langsetting">언어 설정</string>
+    <string name="usingarabic">استخدم اللغة العربية</string>
+    <string name="offonlabel">켜짐 / 꺼짐</string>
+    <string name="langcode">kr</string>
+<string name="chartsoption">Reports Charts</string>
+    <string name="queryoption">Query </string>
+<string name="backuptel">Your Phone Number :</string>
+    <string name="backuppassword">Back Up Password :</string>
+    <string name="backupbtn">Back Up The Data </string>
+    <string name="restorebtn">Restore Database :</string>
+<string name="restoretitle">Restore Data Base</string>
+    <string name="validtel">Phone number and password are required</string>
+    <string name="waitlabel">Please wait !</string>
+    <string name="donkey">The Operation Completed</string>
+<string name="addpurchasoption">Add Purchas</string>
+    <string name="mngpurchasoption">Manage Purchas</string>
+    <string name="addaccountoption">Add Accounts</string>
+    <string name="addopertaionoption">Add Transcation</string>
+<string name="mngproducts">Manage Products</string>
+    <string name="mngsell">Manager sell</string>
+<string name="devemsg">That Screen Indeveloping Comming Soon</string>
+<string name="accountinitvalue">Account initalization Value</string>
+<string name="digitalcoin">Digital Coins</string>
+    <string name="mngcoins">Manage Coins</string>
+    <string name="requirfieldvali">Please Complete the Requir Data</string>
+    <string name="productname">Product Name </string>
+    <string name="pricelabel">Price </string>
+    <string name="barcodelabel">Product Barcode</string>
+    <string name="quantitylabel">Quantity </string>
+<string name="addlabl">Add</string>
+    <string name="fromlabel"> Account Name (From)</string>
+    <string name="tolabel">Account Name (To)</string>
+<string name="hijriinsetting">Using Hijri Calender</string>
+<string name="applylabel">Apply </string>
+<string name="Rate"> Rate </string>
+    <string name="reminderme"> Remind me later </string>
+    <string name="nothanks"> No, Thanks </string>
+    <string name="PROMpet_message1"> If you enjoy using </string>
+    <string name="PROMpet_message2">, please take a moment to rate it. Thanks for your support!</string>
+<string name="optionbtnhelp">Click Here To View And Close the option menu</string>
+    <string name="savebtntip">Click here to select the  Date</string>
+    <string name="quibtn">Click Here To Save it for fast reuse in future</string>
+    <string name="addnewtip">Click here to add new Account</string>
+<string name="creditlabel">Cridet</string>
+    <string name="debitlabel">Debit</string>
+</resources>

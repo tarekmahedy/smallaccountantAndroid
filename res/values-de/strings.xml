@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    
+    <string name="app_name">accountant</string>
+    <string name="listicone">fixed image icone</string>
+    <string name="apptile">Home</string>
+    <string name="closicondesc">"Close icon "</string>
+
+<string name="hometab">Transactions</string>
+    
+    <string name="settingtab">Setting</string>
+    <string name="apptitleen">Home</string>
+    
+    
+    <string name="tab2">Manage</string>
+    <string name="tab3">Reports</string>
+    
+    
+    
+    
+    <string name="exit">Exit</string>
+<string name="Addccount">Add New</string>
+    <string name="about">About</string>
+    <string name="Help">Help</string>
+<string name="langdir">2</string>
+    <string name="aboutcontent">about the application content</string>
+    <string name="helpcontent">helpcontent</string>
+    <string name="savinptbtn">Save</string>
+    <string name="valuelable">Amount :</string>
+    <string name="account2label">Choose account name:</string>
+    <string name="account1label">Choose account name:</string>
+    <string name="alarmtab">Alarm</string>
+    <string name="fullscreenoption">Full Screen</string>
+<string name="headeraccountscontext">accounts Managments</string>
+    <string name="itemshortreport">Quick Report</string>
+    <string name="itemfullreport">Full Report</string>
+    <string name="editeitem">Edit</string>
+    <string name="delitem">Delete</string>
+<string name="loginlabel">Login Data</string>
+    <string name="passwordlabel">Password </string>
+    <string name="usernamelabel">User Name </string>
+    <string name="savepasswordlabel">Save my password</string>
+    <string name="advancesettinglabel">Advanced Setting</string>
+    <string name="usernamesummary">Please enter your login username</string>
+    <string name="passwordsummary">Password Fro Critical Tasks</string>
+    <string name="fastoperationlabel">Q Transaction</string>
+<string name="loginbtnlabel">Login</string>
+<string name="hidesplash">Hide The Splash Screen</string>
+<string name="totallabel">Total Value</string>
+    <string name="accountanamelabel"> Account Name</string>
+<string name="reportvalue">Amount</string>
+<string name="xmlfile">helpen.xml</string>
+<string name="newoperasavedmsg">Operation Saved !</string>
+    <string name="amountfieldreq">value required !</string>
+<string name="vibresetting">Using vibration in Notifications</string>
+    <string name="voicesetting">useing voice in notifications</string>
+<string name="emptyaccountlabel">Add New account first </string>
+    <string name="newregist">New,just click login and from the setting set your password</string>
+<string name="chooseaccounttype">Choose Account Type</string>
+<string name="quickoperationname">Quick Transaction name :</string>
+    <string name="operationdate">Date</string>
+    <string name="longpressmsg">Long press to manage account</string>
+<string name="opeartionmngertitle">Manage Transactions </string>
+<string name="editbtn">Edit </string>
+    <string name="delbtnlabel">Delete</string>
+<string name="confirmdelmsg">Are you sure to delete!</string>
+    <string name="cancellabel">Cancel</string>
+<string name="addpasswordconfirm">Did You want to create password for app Security?</string>
+<string name="nolabel">No</string>
+    <string name="yeslabel">Yes</string>
+<string name="purchase">Purchase</string>
+    <string name="sell">Add Sell</string>
+    <string name="tools">Tools</string>
+    <string name="invoices">Invoices</string>
+    <string name="association">Associations</string>
+    <string name="aksat">Installments</string>
+<string name="backup">Backup</string>
+    <string name="products">Add Products</string>
+<string name="langsetting">Language Setting</string>
+    <string name="usingarabic">استخدم اللغة العربية</string>
+    <string name="offonlabel">On/Off</string>
+    <string name="langcode">de</string>
+<string name="accountsoption">Accounts</string>
+<string name="chartsoption">Reports Charts</string>
+    <string name="queryoption">Query </string>
+<string name="backuptel">Your Phone Number :</string>
+    <string name="backuppassword">Back Up Password :</string>
+    <string name="backupbtn">Back Up The Data </string>
+    <string name="restorebtn">Restore Database :</string>
+<string name="restoretitle">Restore Data Base</string>
+    <string name="validtel">Phone number and password are required</string>
+    <string name="waitlabel">Please wait !</string>
+    <string name="donkey">The Operation Completed</string>
+<string name="addpurchasoption">Add Purchas</string>
+    <string name="mngpurchasoption">Manage Purchas</string>
+    <string name="addaccountoption">Add Accounts</string>
+    <string name="addopertaionoption">Add Transcation</string>
+<string name="mngproducts">Manage Products</string>
+    <string name="mngsell">Manager sell</string>
+<string name="devemsg">That Screen Indeveloping Comming Soon</string>
+<string name="accountinitvalue">Account initalization Value</string>
+<string name="digitalcoin">Digital Coins</string>
+    <string name="mngcoins">Manage Coins</string>
+    <string name="requirfieldvali">Please Complete the Requir Data</string>
+    <string name="productname">Product Name </string>
+    <string name="pricelabel">Price </string>
+    <string name="barcodelabel">Product Barcode</string>
+    <string name="quantitylabel">Quantity </string>
+<string name="addlabl">Add</string>
+    <string name="fromlabel"> Account Name (From)</string>
+    <string name="tolabel">Account Name (To)</string>
+<string name="hijriinsetting">Using Hijri Calender</string>
+<string name="applylabel">Apply </string>
+<string name="Rate"> Rate </string>
+    <string name="reminderme"> Remind me later </string>
+    <string name="nothanks"> No, Thanks </string>
+    <string name="PROMpet_message1"> If you enjoy using </string>
+    <string name="PROMpet_message2">, please take a moment to rate it. Thanks for your support!</string>
+<string name="optionbtnhelp">Click Here To View And Close the option menu</string>
+    <string name="savebtntip">Click here to select the  Date</string>
+    <string name="quibtn">Click Here To Save it for fast reuse in future</string>
+    <string name="addnewtip">Click here to add new Account</string>
+<string name="creditlabel">Cridet</string>
+    <string name="debitlabel">Debit</string>
+</resources>

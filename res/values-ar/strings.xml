@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    
+    <string name="app_name">حساباتى</string>
+    <string name="listicone">fixed image icone</string>
+    <string name="apptile">الرئيسية</string>
+    <string name="closicondesc">"Close icon "</string>
+
+<string name="hometab">العمليات</string>
+    
+    <string name="settingtab">الاعدادات</string>
+    <string name="apptitleen">الرئيسية</string>
+    
+    
+    <string name="tab2">أدارة</string>
+    <string name="tab3">التقارير</string>
+    
+    
+    
+    
+    <string name="exit">الخروج</string>
+<string name="Addccount">اضافة </string>
+    <string name="about">عن</string>
+    <string name="Help">المساعدة</string>
+<string name="langdir">1</string>
+    <string name="aboutcontent">عن البرانامج</string>
+    <string name="helpcontent">محتوى المساعدة</string>
+    <string name="savinptbtn">حفظ</string>
+    <string name="valuelable">   المبلغ </string>
+    <string name="account2label">اختر اسم الحساب</string>
+    <string name="account1label">اختر اسم الحساب</string>
+    <string name="alarmtab">تنويهات</string>
+    <string name="fullscreenoption">ملئ الشاشة</string>
+<string name="headeraccountscontext">ادارة الحسابات</string>
+    <string name="itemshortreport">تقرير مختصر</string>
+    <string name="itemfullreport">تقرير تفصيلى</string>
+    <string name="editeitem">تعديل</string>
+    <string name="delitem">حذف</string>
+<string name="loginlabel">بيانات تسجيل الدخول</string>
+    <string name="passwordlabel">كلمة المرور</string>
+    <string name="usernamelabel">اسم المستخدم</string>
+    <string name="savepasswordlabel">حفظ بيانات الدخول</string>
+    <string name="advancesettinglabel">اعدادات متقدمة </string>
+    <string name="passwordsummary">كلمة المرور للمهام الحيوية</string>
+    <string name="usernamesummary">اكتب اسم المستخدم</string>
+    <string name="fastoperationlabel">عملية سريعة</string>
+<string name="loginbtnlabel">دخول</string>
+<string name="hidesplash">اخفاء الشاشة الافتتاحية</string>
+<string name="totallabel">الاجمالى</string>
+    <string name="accountanamelabel">اسم الحساب</string>
+<string name="reportvalue">القيمة</string>
+<string name="xmlfile">helpar.xml</string>
+<string name="newoperasavedmsg">لقد تم حفظ العملية</string>
+    <string name="amountfieldreq">لم يتم كتابة المبلغ</string>
+<string name="vibresetting">التبيه بلاهتزاز</string>
+    <string name="voicesetting">استخدام الصوت فى التنبيه</string>
+<string name="emptyaccountlabel">قم باضافة حساب اولا لاتمام العملية</string>
+    <string name="newregist">جديد  قم بلضغط على دخول ومن الاعدادات قم بوضع كلمة المرور </string>
+<string name="chooseaccounttype">اختر نوع الحساب</string>
+<string name="quickoperationname">اسم العملية السريعة</string>
+    <string name="operationdate">التاريخ</string>
+    <string name="longpressmsg">اضغط مع الاستمرار للادارة الحساب</string>
+<string name="opeartionmngertitle">ادارة العمليات</string>
+<string name="editbtn">تعديل</string>
+<string name="delbtnlabel">حذف</string>
+<string name="confirmdelmsg">سوف يتم الحذف نهائيا!</string>
+    <string name="cancellabel">الغاء</string>
+<string name="addpasswordconfirm">هل تريد انشاء كلمة مرور لزيادة مستوى الامن للبرنامج !</string>
+<string name="nolabel">لا</string>
+    <string name="yeslabel">نعم</string>
+<string name="purchase">المبيعات</string>
+    <string name="sell"> اضافة المشتريات</string>
+    <string name="tools">الادوات</string>
+    <string name="aksat">اقساط</string>
+    <string name="association">جمعيات</string>
+    <string name="invoices">فواتير</string>
+<string name="backup">نسخ احتياطى</string>
+    <string name="products">اضافة المنتجات</string>
+<string name="langsetting">اعدادات اللغة</string>
+    <string name="usingarabic">استخدم اللغة العربية</string>
+    <string name="offonlabel">نعم|لا</string>
+    <string name="langcode">ar</string>
+<string name="accountsoption">الحسابات</string>
+<string name="chartsoption">الرسم البيانى</string>
+    <string name="queryoption">استعلام</string>
+<string name="backuptel">رقم الجوال :</string>
+    <string name="backuppassword">كلمة المرور :</string>
+    <string name="backupbtn">نسخ قاعدة البيانات</string>
+    <string name="restorebtn">استرجاع قاعدة البيانات</string>
+<string name="restoretitle">استرجاع قاعدة البيانات</string>
+    <string name="validtel">رقم الجوال وكلمة المرور حقول مطلوبة</string>
+    <string name="waitlabel">من فضلك انتظر قليلا</string>
+    <string name="donkey">تم التنفيذ بنجاح</string>
+<string name="addpurchasoption">اضافة مبيعات</string>
+    <string name="mngpurchasoption">ادارة المبيعات</string>
+    <string name="addaccountoption">اضافة الحسابات</string>
+    <string name="addopertaionoption">اضافة عملية</string>
+<string name="mngproducts">ادارة المنتجات</string>
+    <string name="mngsell">ادارة المشتريات</string>
+<string name="devemsg">هذه الشاشة جارى تطويرها فباذن الله يتم الانتهاء منها عما قريب</string>
+<string name="accountinitvalue">القيمة الافتتاحية</string>
+<string name="digitalcoin">صكوك رقمية</string>
+    <string name="mngcoins">ادارة الصكوك</string>
+    <string name="requirfieldvali">من فضلك اكمل البيانات المطلوبة</string>
+    <string name="productname">اسم المنتج</string>
+    <string name="pricelabel">السعر</string>
+    <string name="barcodelabel">باركود المنتج</string>
+    <string name="quantitylabel">الكمية</string>
+<string name="addlabl">اضافة </string>
+    <string name="fromlabel">اسم الحساب (من) </string>
+    <string name="tolabel">اسم الحساب (الى)</string>
+<string name="hijriinsetting">استخدام التقويم الهجرى</string>
+<string name="applylabel">حفظ </string>
+<string name="Rate">  قيم </string>
+    <string name="reminderme">ذكرنى لاحقا </string>
+    <string name="nothanks">لا شكرا</string>
+    <string name="PROMpet_message1">اذا استفدت من استخدام برنامج </string>
+    <string name="PROMpet_message2">, برجاء قيم البرنامج . ملحوظة هو برنامج مجانى موجه للمستخدم العربى..  شكرا على الدعم</string>
+<string name="optionbtnhelp">اضغط هنا لعرض واخفاء القائمة الجانبية</string>
+    <string name="savebtntip">اضغط هنا لاختيار التاريخ ويمكن تفعيله فى الاعدادت لتاريخ الهجرى</string>
+    <string name="quibtn">اضغط هنا للحفظ للسرعة الاستخدام فى المرة التالية</string>
+    <string name="addnewtip">اضغط هنا لاضافة حساب جديد</string>
+<string name="creditlabel">مدين</string>
+    <string name="debitlabel">دائن</string>
+</resources>

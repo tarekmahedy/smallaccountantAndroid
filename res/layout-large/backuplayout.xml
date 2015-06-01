@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainliner"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout 
+         android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/telid"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:textSize="24dp"
+            android:text="@string/backuptel"
+            android:textColor="#372c24" />
+
+        <EditText
+            android:id="@+id/teledit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dip"
+            android:textSize="24dp"
+            android:layout_marginTop="5dip"
+            android:inputType="number"
+            android:singleLine="true" />
+        <!-- Password Label -->
+
+        <TextView
+            android:id="@+id/passid"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:textSize="24dp"
+            android:text="@string/backuppassword"
+            android:textColor="#372c24" />
+
+        <EditText
+            android:id="@+id/passwordedit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"
+            android:password="true"
+            android:textSize="24dp"
+            android:singleLine="true" />
+        <!-- Register Button -->
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:textSize="24dp"
+            android:text="@string/backupbtn" />
+        <!-- Link to Login Screen -->
+    </LinearLayout>
+
+</LinearLayout>

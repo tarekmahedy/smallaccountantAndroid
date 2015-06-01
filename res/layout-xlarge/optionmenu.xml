@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+     <item
+        android:id="@+id/toolsoption"
+        android:icon="@drawable/toolsicon"
+        android:title="@string/tools"/>
+
+    <item
+        android:id="@+id/iconfullscreen"
+        android:icon="@drawable/fullscreen"
+        android:title="@string/fullscreenoption"/>
+
+    <item
+        android:id="@+id/settingoption"
+        android:icon="@drawable/setting"
+        android:title="@string/settingtab"/>
+    
+    <item
+        android:id="@+id/helpoption"
+        android:icon="@drawable/help"
+        android:title="@string/Help"/>
+
+    <item
+        android:id="@+id/aboutoption"
+        android:icon="@drawable/homeoption"
+        android:title="@string/about"/>
+    
+    <item
+        android:id="@+id/iconlogout"
+        android:icon="@drawable/logout"
+        android:title="@string/exit"/>
+
+</menu>

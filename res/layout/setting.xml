@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/loginlabel" >
+
+        <EditTextPreference
+            android:key="password"
+            android:summary="@string/passwordsummary"
+            android:title="@string/passwordlabel" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/langsetting" >
+
+        <CheckBoxPreference
+            android:key="usingArabic"
+            android:summary="نعم|لا"
+            android:title="@string/usingarabic" />
+        
+        <CheckBoxPreference
+            android:key="hijricalender"
+            android:summary="@string/hijriinsetting"
+            android:title="@string/hijriinsetting" />
+        
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/advancesettinglabel" >
+
+        <CheckBoxPreference
+            android:key="autologin"
+            android:summary="@string/offonlabel"
+            android:title="@string/savepasswordlabel" />
+
+        <CheckBoxPreference
+            android:key="spalsh"
+            android:summary="@string/offonlabel"
+            android:title="@string/hidesplash" />
+
+        <CheckBoxPreference
+            android:key="voice"
+            android:summary="@string/offonlabel"
+            android:title="@string/voicesetting" />
+
+        <CheckBoxPreference
+            android:key="vibr"
+            android:summary="@string/offonlabel"
+            android:title="@string/vibresetting" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
